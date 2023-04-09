@@ -1,4 +1,4 @@
-# practice_restaurant_list
+# practice_router
 
 ![Index page about Restaurant List](./public/image/01.png)
 ![Show page about Restaurant Information](./public/image/02.png)
